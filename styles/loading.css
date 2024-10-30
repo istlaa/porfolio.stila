@@ -39,7 +39,7 @@
         text-shadow: none;
     }
     100% {
-        color: #DC8D61; /* Updated text color */
+        color: #2272FF; /* Updated text color */
         text-shadow: 0 0 7px #2272FF; /* Updated shadow color */
     }
 }
